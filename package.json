@@ -1,0 +1,15 @@
+{
+  "name": "js-profesional",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Profesional de Javascrit de la Escuela de Javascript de Platzi",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "platzi"
+  ],
+  "author": "Karen Brito <savaraguz@.com>",
+  "license": "MIT"
+}
